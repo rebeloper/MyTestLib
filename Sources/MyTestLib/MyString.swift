@@ -8,9 +8,9 @@
 import Foundation
 
 
-struct MyString {
+public struct MyString {
     
-    func getName() -> String {
+    public func getName() -> String {
         "Alex"
     }
     
