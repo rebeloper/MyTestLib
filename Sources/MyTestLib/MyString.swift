@@ -10,7 +10,7 @@ import Foundation
 
 public struct MyString {
     
-    public func getName() -> String {
+    public static func getName() -> String {
         "Alex"
     }
     
